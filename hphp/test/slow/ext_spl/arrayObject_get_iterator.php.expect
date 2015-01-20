@@ -1,0 +1,30 @@
+ArrayIterator Object
+(
+    [storage:ArrayIterator:private] => Array
+        (
+            [1] => Test1
+        )
+
+    [flags:ArrayIterator:private] => 0
+)
+ArrayIterator Object
+(
+    [storage:ArrayIterator:private] => Array
+        (
+            [1] => Test1
+            [2] => Test2
+        )
+
+    [flags:ArrayIterator:private] => 0
+)
+ArrIt Object
+(
+    [storage:ArrayIterator:private] => Array
+        (
+            [1] => Test1
+            [2] => Test2
+        )
+
+    [flags:ArrayIterator:private] => 0
+)
+
